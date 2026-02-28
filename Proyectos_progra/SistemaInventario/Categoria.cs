@@ -1,0 +1,1 @@
+enum Categoria { Manzana, Pera, Sandia, Banano, Fresa };
